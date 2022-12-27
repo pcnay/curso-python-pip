@@ -1,4 +1,4 @@
-#!/var/www/html/curso-web/Python/Platzi/py-project/app/app-env/bin/python3
+#!/var/www/html/curso-web/curso-python-pip/app/app-env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

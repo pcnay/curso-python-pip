@@ -60,6 +60,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+/app/app-env/
 build/
 develop-eggs/
 dist/
